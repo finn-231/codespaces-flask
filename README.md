@@ -1,4 +1,4 @@
-# Flask AI Stock Chat
+# Flask AI Stock Chat - Challenge 4
 
 A chatbot application powered by Flask, Google Gemini AI, and Alpha Vantage API to provide users with stock information through a conversational interface. The AI can fetch stock data, explain it in a user-friendly manner, and respond to follow-up questions seamlessly.
 
@@ -100,15 +100,8 @@ Apple Inc. is a multinational technology company known for its iconic products l
 - API rate limits may affect the availability of real-time data.
 - Only supports stocks available through the Alpha Vantage API.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request for any features or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com].
+For any questions or feedback, please contact [finn.waehlt@whu.edu].
 
